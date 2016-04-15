@@ -25,7 +25,7 @@ A curated list of delightful Prometheus [Exporters](#exporters),[Recipes](#recip
 *A selection of examples on common or tricky usages.*
 
 - **[Alerting](#alerting)**
-  - [Missing metric](missing_metric) - Machine metrics (cpu,mem ...)
+  - [Alerting on Missing Metric(s)](recipes/_todo/alerting_on_missing_metric)
   
 - **[Exporting](#exporting)**
 
