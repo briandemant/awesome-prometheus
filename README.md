@@ -26,6 +26,7 @@ A curated list of delightful Prometheus [Exporters](#exporters),[Recipes](#recip
 
 - **[Alerting](#alerting)**
   - [Alerting on Missing Metric(s)](recipes/_todo/alerting_on_missing_metric)
+  - [Just a Template](recipes/_template)
   
 - **[Exporting](#exporting)**
 
