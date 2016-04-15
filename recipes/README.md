@@ -1,1 +1,1 @@
-see [Receipes](../#recipes)
+see [Receipes](../README.md#recipes)
